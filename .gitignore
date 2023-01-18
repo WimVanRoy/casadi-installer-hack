@@ -1,0 +1,6 @@
+build/
+*.egg-info/
+casadi/*dylib
+casadi/*so
+casadi/*a
+casadi/casadi.py
